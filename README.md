@@ -19,7 +19,8 @@ heap.AddKey(2);
 heap.AddKey(4);
 heap.AddKey(6);
 ```
- This operation is  _O(log N)_ where _N_ is the number of elements within the heap.
+This operation is  _O(log N)_ where _N_ is the number of elements within the heap.
+
 ---
 ## Getting the max
 The main feature of the heap is that it get the max (or min) element in constant time.
