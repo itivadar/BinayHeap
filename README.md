@@ -2,7 +2,7 @@
 
 My idea was to create simple and clear implementation of the binary heap data structure. The .NET framework lacks an implementation for this data structure. However, binary heaps are needed for some algorithms like `A*` or `IDA*` search algorithms.
 
-The implemented type is max-heap but it can be easy transform into a min-heap if needed.
+The implemented type is max-heap but it can be easy transformed into a min-heap if needed.
 
 
 ## Creating a new binary heap
